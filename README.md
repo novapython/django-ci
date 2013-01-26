@@ -1,0 +1,4 @@
+django-ci
+=========
+
+Django CI
